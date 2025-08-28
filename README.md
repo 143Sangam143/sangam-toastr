@@ -42,7 +42,7 @@ Add to your `layouts/app.blade.php` (inside `<head>`):
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 
 {{-- Toastr Assets --}}
-<link rel="stylesheet" href="{{ asset('vendor/sangam-toastr/toastr.min.css') }}">
+<link rel="stylesheet" href="{{ asset('vendor/sangam-toastr/toastr.css') }}">
 <script src="{{ asset('vendor/sangam-toastr/toastr.min.js') }}"></script>
 ```
 
